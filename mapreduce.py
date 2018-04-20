@@ -1,4 +1,4 @@
-from mrjob.job import mrjob
+from mrjob.job import MRJob
 from mrjob.step import MRStep
 
 class RatingsBreakdown(MRJob):
